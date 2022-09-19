@@ -1,0 +1,71 @@
+
+    
+    h2 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+    
+    }
+    
+    #font-nova {
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        position:absolute;
+        right: 500px;
+        top: 310px;
+        
+ }
+
+ body {
+  
+    padding-left: 55px;
+    
+ }
+    body {
+        background-color:beige;
+    }
+    
+     .D {
+        font-size: 40px;
+     }
+    
+     .D0 {
+        font-size: 30px;
+     }
+    
+     .D1 {
+        font-size: 25px;
+     }
+     
+     .E1 {
+        font-size: 24px;
+     }
+    
+     .H1 {
+        font-size: 18px;
+     }
+
+    
+    
+
+    #imagem {
+    padding: 25px;
+    background-color: yellow;
+    }
+
+    #borda {
+        height: 400px;
+        }
+
+    #nome {
+    
+    color: red;
+
+    }
+
+    ul li:nth-child(odd) {
+        font-style: italic;
+        background-color: red;
+        color: white;
+    }
+    
+
+   
+    
